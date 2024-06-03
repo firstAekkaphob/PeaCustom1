@@ -1,0 +1,25 @@
+.bg-success {
+    background-color: #28a745 !important;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bg-danger {
+    background-color: #dc3545 !important;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bg-warning {
+    background-color: #9b9a99 !important;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.form-control {
+    width: auto;
+    display: inline-block;
+}
